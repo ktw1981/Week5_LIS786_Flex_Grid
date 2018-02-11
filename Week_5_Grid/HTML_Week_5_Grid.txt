@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+   <html>
+   <head>
+   <style>
+   <meta charset="utf-8">
+   <meta name= "viewport" content= "width=device-width, initial-scale=1.0">
+   <link rel="stylesheet" href="style.css">
+   </head>
+   <body>
+
+<div class="header">
+ <h1> Week 5 Part 2: Grid</h1>
+</div>
+
+    <div class="row">
+	<div class="column">
+         <img src="https://images-na.ssl-images-amazon.com/images/I/512cfaujIkL._SX355_.jpg" style="width:100%">
+	 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Mixed-jujyfruits.jpg/640px-Mixed-jujyfruits.jpg" style="width:100%">
+	 <img src="https://s3.amazonaws.com/dc-java/images/skus/8365-PRODUCT_02-380_380-1414532524870.png" style="width:100%">
+	 <img src="https://media4.s-nbcnews.com/j/newscms/2017_39/1285638/halloweencandymix_8052c3b6162665d72690425812165cbf.today-inline-large.jpg" style="width:100%">
+	 <img src="http://images.mentalfloss.com/sites/default/files/styles/width-constrained-728/public/90662-MikeandIke-IMG_4290.jpg" style="width:100%">
+	 <img src="https://storage.googleapis.com/afs-prod/media/media:8110d6cacf064d8c95b38474edd66693/800.jpeg" style="width:100%">
+    </div>
+	<div class="column">
+        <div><img src="http://images.clipartpanda.com/library-building-clipart-yTopezLTE.jpeg" style="width:100%"</div>
+        <div><img src="http://laoblogger.com/images/best-cute-free-clipart-kids-giving-gift-3.jpg" style="width:100%"</div>
+        <div><img src="http://clipartix.com/wp-content/uploads/2016/04/Be-creative-your-library-clip-art-danasrhp-top.jpg" style="width:100%"</div>
+        <div><img src="https://previews.123rf.com/images/lenm/lenm1512/lenm151200115/49920058-stickman-illustration-of-parents-helping-their-kids-choose-books-in-a-bookstore.jpg" style="width:100%"</div>
+        <div><img src="http://stthomaswichita.com/images/stories/school/books.jpg" style="width:100%"</div>
+        <div><img src="https://thumbs.dreamstime.com/b/study-room-children-desk-shelves-books-lamp-pencils-painting-33534741.jpg" style="width:100%"</div>
+    </div>
+  </div>
+  
+  </body>
+  </html>
+
+
+
+
+
+
+
+
+
+
